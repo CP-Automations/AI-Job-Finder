@@ -1,4 +1,6 @@
-[My workflow.json](https://github.com/user-attachments/files/30865940/My.workflow.json)## AI Job Finder
+[My workflow.json](https://github.com/user-attachments/files/30865940/My.workflow.json)
+
+## AI Job Finder
 
 An AI-powered job recommendation automation built with n8n, Airtable, Jobs API, AI, and Email.
 
